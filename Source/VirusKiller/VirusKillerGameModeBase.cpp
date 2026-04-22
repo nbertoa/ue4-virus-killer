@@ -1,0 +1,1 @@
+#include "VirusKillerGameModeBase.h"
