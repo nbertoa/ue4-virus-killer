@@ -3,7 +3,7 @@
 A **top-down shooter prototype** built in Unreal Engine 4 C++ where you play as a cell fighting virus enemies. The core mechanic is that your **visual size is your health bar** — firing projectiles costs health, taking damage shrinks you, and picking up dropped health orbs restores you.
 
 > Based on the Unreal Engine Top-Down Shooter course on Udemy.  
-> 📺 [Video demo](https://www.youtube.com/watch?v=SdOsV93q1Ls) · 📝 [Blog post](https://nbertoa.wordpress.com/2023/05/11/unreal-4-c-virus-killer/)
+> 📺 [Video demo](https://www.youtube.com/watch?v=SdOsV93q1Ls) · 📝 [Blog post](https://nbertoa.com/2023/05/11/unreal-4-c-virus-killer/)
 
 ---
 
@@ -125,6 +125,6 @@ Unreal Engine **4** (UE4)
 
 ## Related
 
-- 📝 [Blog post — nbertoa.wordpress.com](https://nbertoa.wordpress.com/2023/05/11/unreal-4-c-virus-killer/)
+- 📝 [Blog post — nbertoa.com](https://nbertoa.com/2023/05/11/unreal-4-c-virus-killer/)
 - 📺 [Video demo — YouTube](https://www.youtube.com/watch?v=SdOsV93q1Ls)
 - 📚 [Learning source — Udemy](https://www.udemy.com/course/jeffers-unreal-topdownshooter/)
